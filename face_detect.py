@@ -65,11 +65,12 @@ for f in sys.argv[1:]:
     win.set_image(img)
     win.add_overlay(dets)
     dlib.hit_enter_to_continue()
-    #recognize_emotion()
 
 if (len(sys.argv[1:]) > 0):
     img = dlib.load_rgb_image(sys.argv[1])
     dets, scores, idx = detector.run(img, 1, -1)
     for i, d in enumerate(dets):
         print("Detection {}, score: {}, face_type:{}".format(d, scores[i], idx[i]))
+
+#Emotion detection
 

@@ -1,2 +1,4 @@
-# capstone-project
-My final project in the university on Emotion Recognition using Image Processing and Learning techniques.
+# Emotion Recognition using Image Processing
+Over the years, emotion detection has become much more fascinating because it has shifted from the domain of psychologists trying handling it and from complex machines being attached to human bodies, to emotions being automatically detected and classified (by computers and emerging technologies). According to Medium, the emotion recognition solution industry has been estimated to reach 67.1 billion dollars by 2021 [11]. This statistic suggests that the emotion recognition market has a great deal of importance and emotion recognition, when effectively done, can improve both human-to-human interactions and human-to-computer interactions. 
+
+This project is aimed at proposing a more effective emotion recognition and classification method that can accurately detect emotions in people.
